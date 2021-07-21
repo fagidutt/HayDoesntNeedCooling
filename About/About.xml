@@ -4,6 +4,7 @@
 	<author>Ivelischt</author>
 
 	<packageId>ivelischt.RimWorld.uncooledHay</packageId>
+	<url>https://github.com/fagidutt/HayDoesntNeedCooling</url>
 	<description>
 	This is just a basic DefMod.
 	With it, it is not required to cool Haystacks.
